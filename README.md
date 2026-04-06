@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋,soy Eduardo Sánchez Dev</h1>
-<h3 align="center">Ingeniero en Sistemas🧑‍💻|💻 Transformando ideas en software</h3><br>
+<h3 align="center">Ingeniero en Sistemas🧑‍💻|💻 Transformando ideas en software</h3></p>
 <h2 align="center">Apasionado por la programación y la innovación.🖥️🤖</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
